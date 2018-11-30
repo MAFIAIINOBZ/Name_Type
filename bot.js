@@ -4,7 +4,7 @@ x5bzteam.on("ready", () => {
     console.log("The Bot CMD Developerment By, HeyIm7s7s");
     onstart();
 });
-x5bz = "355429992227667970";
+x5bz = "SERVER_ID";
 nick = " ! ʚɞ ᴿQᴹᶻ | HeyIm7s7s ʚɞ ! ";
 function onstart(){
     var v1 = nick.split('');
